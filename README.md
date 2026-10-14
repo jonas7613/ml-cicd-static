@@ -1,6 +1,6 @@
-# Drug Classification CI/CD & Browser Inference
+# Drug Classification 
 
-Complete CI/CD implementation using **GitHub Actions**, **CML (Continuous Machine Learning)**, and a static **ONNX Runtime Web** inference app deployed to **Hugging Face Spaces**.
+
 
 ## Architecture Overview
 
